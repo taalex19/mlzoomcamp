@@ -1,4 +1,4 @@
 Homework #2
+Machine Learning for Regression
 
-Dataset
-In this homework, used the California Housing Prices from Kaggle.
+Dataset- California Housing Prices from Kaggle.
